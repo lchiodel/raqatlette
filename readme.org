@@ -1,0 +1,27 @@
+* What brings what
+
+Idea: 
+- Team Device: Maxime, bring your stuff if you come.
+- Team Cheese (Lead: Luce): we need 4 persons taking 4 servings. I'll be part of it to adapt for Maxime's moving plans. Luc and Sami you are in. => 1 missing
+- Team Charcuterie: same => 4 missing. We need a team lead! (Francesco?)
+- Team Patates: it's heavy I'll take everything on my side => done
+- Team Dessert (Lead Emilie): Emilie => i'd say 2 missing 
+- Team Drink (Lead: Ulysse?) I counted .5 bottle per person. But I really don't know. In case we miss some, I have some hidden stock of weird stuff.
+
+So others, please find your slot. We should all have something to do / bring. 
+
+|                      | Count | Device (#slots) | Team Cheese (#200g/p.) | Team Charcuterie (100g/p.) | Team Patates (350g/p.) | Team Dessert | Team Drink (bottles) |
+|----------------------+-------+-----------------+------------------------+----------------------------+------------------------+--------------+----------------------|
+| Mathys               |     1 |                 |                        |                            |                        |              |                      |
+| Sami                 |     1 |                 | 4                      |                            |                        |              |                      |
+| Rajarsi              |     1 |                 |                        |                            |                        |              |                      |
+| Bo                   |     1 |                 |                        |                            |                        |              |                      |
+| Luce                 |     1 |                 | 4                      |                            |                        |              |                      |
+| Francesco + Flavia   |     2 |                 |                        |                            |                        |              |                      |
+| Ulysse + Léonie      |     2 |               6 |                        |                            |                        |              |                      |
+| Emilie + Fred        |     2 |               6 |                        |                            |                        |            x |                    2 |
+| Harold + Laure       |     2 |                 | 4                      |                          4 |                     15 |              |                    1 |
+| Maxime + Chloé (TBC) |     2 |               6 |                        |                            |                        |              |                      |
+| Jack                 |     0 |                 |                        |                            |                        |              |                      |
+|----------------------+-------+-----------------+------------------------+----------------------------+------------------------+--------------+----------------------|
+| Delta to target      |    15 |               3 |                     -3 |                        -11 |                      0 |          -15 |                 -4.5 |
